@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2023-07-22 at 7:16 (GMT+8)-->
-<!--Last edited by Ukelele version 359 on 2023-07-22 at 11:34 (GMT+8)-->
-<keyboard group="126" id="-29402" name="Wugniu" maxout="1">
+<!--Last edited by Ukelele version 359 on 2023-07-23 at 2:29 (GMT+8)-->
+<keyboard group="126" id="-29402" name="Wugniu" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -98,7 +98,7 @@
             <key code="43" output="w"/>
             <key code="44" output="z"/>
             <key code="45" output="b"/>
-            <key code="46" output="m"/>
+            <key code="46" action="m"/>
             <key code="47" output="v"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
@@ -1109,6 +1109,10 @@
         </action>
         <action id="level 1">
             <when state="none" next="level"/>
+        </action>
+        <action id="m">
+            <when state="none" output="m"/>
+            <when state="falling" output="m̀"/>
         </action>
         <action id="o">
             <when state="none" output="o"/>
