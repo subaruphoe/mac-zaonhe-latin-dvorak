@@ -27,6 +27,6 @@
 
 q鍵標陰平à x鍵標陰入ā 別它弗標
 
-Tsāh ji-boe cì-yon Ya-we-sēh tāh Ghoh-daon-sēh zaon-he-ghe-gho phīn-īn (sīu-iau nhè zeh-sèn -q woe-zen-kòn -h)
+Tsāh ji-boe cì-yon Yah-we-sēh tāh Ghoh-daon-sēh zaon-he-ghe-gho phīn-īn (sīu-iau nhè zeh-sèn -q woe-zen-kòn -h)
 
 q-ji piàu ìn-bin à, x-ji piàu ìn-zeh ā, bih-thà veh-piàu
